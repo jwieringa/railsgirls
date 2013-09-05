@@ -68,8 +68,8 @@ rails server
 3. Explain how the app folders are ordered/classified.
 4. Talk about CSS and Layouts
 
+# Step 4
 
-
-
-
-
+1. What are libraries and why are they used?
+2. What is open source?
+3. Discussion: HTML is the topic.
