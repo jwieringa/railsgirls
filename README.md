@@ -61,6 +61,12 @@ rails server
 
     Attributes and types, "name:string", are instructions that create the columns in a  table and set there acceptable types. Databases want to know the type of information that they will be storing. For example, if we wanted to keep the birth date of an attendee we would say "birth_date:date". 
 
+# Step 3
+
+1. Talk about the relationship of HTML and Rails and explain that part of views is HTML and what is Embedded Ruby (ERB)?
+2. How does this relate to MVC (models and controllers control the logic of dynamically generating HTML, or views)?
+3. Explain how the app folders are ordered/classified.
+4. Talk about CSS and Layouts
 
 
 
