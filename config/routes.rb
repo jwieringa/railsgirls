@@ -1,6 +1,8 @@
 Railsgirls::Application.routes.draw do
   resources :attendees
 
+  root :to => 'attendees#index'
+  #redirect("/attendees")
 
   # The priority is based upon order of creation:
   # first created -> highest priority.
