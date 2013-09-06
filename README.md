@@ -73,3 +73,7 @@ rails server
 1. What are libraries and why are they used?
 2. What is open source?
 3. Discussion: HTML is the topic.
+
+# Step 5
+
+1. Discuss how instance variables in controller actions are available in the view

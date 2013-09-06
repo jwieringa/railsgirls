@@ -7,6 +7,8 @@ gem 'rails', '3.2.14'
 
 gem 'sqlite3'
 gem "carrierwave", "~> 0.9.0"
+gem 'geocoder'
+gem 'gmaps4rails'
 
 
 # Gems used only for assets and not required
